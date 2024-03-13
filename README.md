@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm interested in creating business values using AI.
+- I enjoy thriving in a challenging environment with perseverance and resilience.
+- I'm open to the possibility that I'm wrong and give the benefit of the doubt when someone is wrong.
+
+[1-Page CV](./resume_github.pdf)
+
 <!--
 **ITHwang/ITHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
