@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm interested in creating business values using AI.
-- I enjoy thriving in a challenging environment with perseverance and resilience.
+- AI-Native Engineer creating business value using AI
+- Interests: Agentic Systems, LLM training/serving, AI-driven Automation
 
 <!--
 **ITHwang/ITHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
